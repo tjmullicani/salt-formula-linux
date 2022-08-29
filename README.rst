@@ -49,7 +49,7 @@ Linux with system users, some with password set:
             full_name: 'Jonh Doe'
             home: '/home/jdoe'
             home_dir_mode: 755
-            email: 'jonh@doe.com'
+            email: 'john@doe.com'
             unique: false
           jsmith:
             name: 'jsmith'
@@ -61,13 +61,13 @@ Linux with system users, some with password set:
           mark:
             name: 'mark'
             enabled: true
-            full_name: "unchange password'
+            full_name: "unchanged password"
             home: '/home/mark'
             password: false
           elizabeth:
             name: 'elizabeth'
             enabled: true
-            full_name: 'With hased password'
+            full_name: 'With hashed password'
             home: '/home/elizabeth'
             password: "$6$nUI7QEz3$dFYjzQqK5cJ6HQ38KqG4gTWA9eJu3aKx6TRVDFh6BVJxJgFWg2akfAA7f1fCxcSUeOJ2arCO6EEI6XXnHXxG10"
 
